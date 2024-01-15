@@ -1,7 +1,7 @@
 # Hi👋🏾 I’m Gabriel and I’m a software developer!
 🌱 I'm currently learning TypeScript, React and Tailwind.<br>🔭 I’m currently working on some full stack projects.
 
-<table border="4" cellspacing="0" cellpadding="0">
+<table border="3" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <div>
