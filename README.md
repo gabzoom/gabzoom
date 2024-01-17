@@ -26,7 +26,7 @@
           💛 And I trully love my family and my pets! :)
         </li>
         <li>
-          📬 <a href=mailto:gabriel.rodriguesxs@gmail.com>Contact me via e-mail</a>
+          📧 <a href=mailto:gabriel.rodriguesxs@gmail.com>Contact me via e-mail</a>
         </li>
       </ul>
     </td>
