@@ -71,7 +71,7 @@
 
 <h2 align="left">Stats</h2>
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabzoom&include_all_commits=true&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabzoom&include_all_commits=false&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzoom&layout=compact&theme=react"/>
 </div>
 
