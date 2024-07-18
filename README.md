@@ -13,7 +13,7 @@
       <h3>About the human behind the codes:</h3>
       <ul>
         <li>
-          🌎 I'm a 23 years old brazilian developer from São Paulo.
+          🌎 I'm a 24 years old brazilian developer from São Paulo.
         </li>
         <li>
           💜 But I'm also a music, art, video games and sports lover.
