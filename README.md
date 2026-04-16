@@ -1,4 +1,4 @@
-# Hi👋🏾 I’m Gabriel and I’m a software developer!
+# Hi👋🏾 I’m Gabriel and I’m a Software Engineer!
 
 <table border="2" cellspacing="0" cellpadding="0">
   <tr>
