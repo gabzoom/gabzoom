@@ -1,31 +1,31 @@
-# Hi👋🏾 I’m Gabriel and I’m a Software Engineer!
+# Hi👋🏾 I’m Gabriel, a Software Engineer!
 
 <table border="2" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 0";>
+    <td style="border: 0">
       <div>
         <picture>
            <img src="media/miles-morales-bopping.gif" width="1000" height="100%" alt="Miles Morales bopping"/>
-        <picture>
-      <div>
+        </picture>
+      </div>
     </td>
     <td style="border: 0" width="50%">
-      <h3>About the human behind the codes:</h3>
+      <h3>About the human behind the code:</h3>
       <ul>
         <li>
-          🌎 I'm a 25 years old brazilian developer from São Paulo.
+          🌎 I'm a 25-year-old Brazilian developer from São Paulo.
         </li>
         <li>
-          💜 But I'm also a music, art, video games and sports lover.
+          💜 I also love music, art, video games and sports.
         </li>
         <li>
           ☕ I'm powered by music (and some hot coffee too).
         </li>
         <li>
-          💛 And I trully love my family and my pets! :)
+          💛 I truly love my family and my pets! :)
         </li>
         <li>
-          📧 <a href=mailto:gabriel.rodriguesxs@gmail.com>Contact me via e-mail</a>
+          📧 <a href=mailto:gabriel.rodriguesxs@gmail.com>Contact me by email</a>
         </li>
       </ul>
     </td>
