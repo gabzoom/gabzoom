@@ -43,17 +43,17 @@
   
   <h3>Frontend</h3>
   
-  <img src="https://skillicons.dev/icons?i=react,tailwind,styledcomponents,bootstrap,css,html" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,styledcomponents,bootstrap,css,html,blank" />
   </td>
   
   <td valign="top" width="50%">
   <h3>Databases</h3>
   
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,blank,blank,blank" />
   
-  <h3>Cloud & DevOps</h3>
+  <h3>Cloud • DevOps</h3>
   
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,grafana,blank" />
   </td>
   
   </tr>
