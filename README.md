@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<h2>Tech Stack</h2>
+<h2>⚙️ Tech Stack</h2>
 <table width="100%">
   <tr>
     
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📊 Stats</h2>
 <div align="left">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gabzoom&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabzoom&layout=compact&theme=react"/>
