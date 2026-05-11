@@ -35,34 +35,25 @@
 <h2>⚙️ Tech Stack</h2>
 <table width="100%">
   <tr>
-    
-  <td valign="top" width="50%">
-  <h3>Backend</h3>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,java,spring,cs,dotnet&theme=light" />
-  
-  <h3>Frontend</h3>
-  
-  <img src="https://skillicons.dev/icons?i=react,tailwind,styledcomponents,bootstrap,css,html,blank" />
-  </td>
-  
-  <td valign="top" width="50%">
-  <h3>Databases</h3>
-  
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,blank,blank,blank" />
-  
-  <h3>Cloud • DevOps</h3>
-  
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,grafana,blank" />
-  </td>
-  
+    <td valign="top" width="50%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,js,java,spring,cs,dotnet&theme=light" />
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,styledcomponents,bootstrap,css,html,blank" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,blank,blank,blank" />
+      <h3>Cloud • DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,grafana,blank" />
+    </td>
   </tr>
 </table>
 
 <h2 align="left">📊 Stats</h2>
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gabzoom&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabzoom&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=gabzoom&count_private=true&hide=stars&show_icons=true&rank_icon=github&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabzoom&layout=compact&theme=react"/>
 </div>
 
 <!-- Layout made with <3 by github.com/gabzoom -->
